@@ -20,6 +20,7 @@ body {
 }
 
 div h1 {
+    z-index: 100;
     color: white;
     margin:0;
     padding: 140px;
@@ -41,6 +42,7 @@ a {
 }
 
 figure {
+    z-index: 100;
     margin: 0;
     background-color: rgb(255, 255, 255);
     display: block;
