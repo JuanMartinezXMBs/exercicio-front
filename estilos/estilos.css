@@ -12,7 +12,7 @@ body {
     top: 150px;
     left: 200px;
     width: 80%;
-    max-width: 500px;
+    max-width: 1200px;
     min-width: 200px;
     margin: auto;
     padding: 20px;
@@ -22,7 +22,7 @@ body {
 div h1 {
     color: white;
     margin:0;
-    padding: 50px;
+    padding: 140px;
     background-image: url(../imagens/double-bubble-dark.png);
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -31,6 +31,13 @@ div h1 {
 
 h2{
     margin-top: auto;
+}
+
+a {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    background-color: rgb(79, 103, 109);
 }
 
 figure {
